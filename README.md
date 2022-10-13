@@ -1,4 +1,4 @@
-<h1 align="center">Goal creator</h1>
+<h1 align="center">User form</h1>
 
 <div align="center">
   <h3>
@@ -17,7 +17,7 @@
 ## Overview
 
 <div align="center">
-   <img src="https://github.com/Damyanmd/goal_api/blob/main/img/Capture.PNG">
+   <img src="https://github.com/Damyanmd/form-adding-user-with-validation/blob/main/img/Capture.PNG">
  </div>
  
 ### Built With
